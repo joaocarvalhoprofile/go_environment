@@ -5,6 +5,11 @@ Instal package
   go get -u package_name
 ```
 
+Update dependency package
+```
+  go mod tidy
+```
+
 Execute:
 ```
   go run filename.go
