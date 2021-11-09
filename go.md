@@ -1,5 +1,10 @@
 # go_environment
 
+Instal package
+```
+  go get -u package_name
+```
+
 Execute:
 ```
   go run filename.go
