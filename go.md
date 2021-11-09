@@ -10,6 +10,11 @@ Update dependency package
   go mod tidy
 ```
 
+Show structure vendor in project
+```
+  go mod vendor
+```
+
 Execute:
 ```
   go run filename.go
