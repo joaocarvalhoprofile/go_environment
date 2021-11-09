@@ -1,11 +1,16 @@
 # go_environment
 
-Instal package
+Create project package
+```
+  go mod init github.com/joaokvalho/namepackage
+```
+
+Instal package external
 ```
   go get -u package_name
 ```
 
-Update dependency package
+Update dependency package in project
 ```
   go mod tidy
 ```
