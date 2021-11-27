@@ -4,9 +4,9 @@
 ```bash 
 go env
 ```
-* Attention to the variables:
-** GOPATH="/Users/joaocarvalho/go" (Main GO Folder, with bin and pkg)
-** GOROOT="/usr/local/go" (Golang installation location)
+##### Attention to the variables:
+* GOPATH="/Users/joaocarvalho/go" (Main GO Folder, with bin and pkg)
+* GOROOT="/usr/local/go" (Golang installation location)
 
 
 ### Check for invalid codes
