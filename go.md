@@ -5,8 +5,8 @@
 go env
 ```
 #### Attention to the variables:
-* GOPATH="/Users/joaocarvalho/go"
-* GOROOT="/usr/local/go"
+* GOPATH="/Users/joaocarvalho/go" (Workspace, location of my projects)
+* GOROOT="/usr/local/go" (Golang installation location)
 
 ### Create project package
 ```bash
