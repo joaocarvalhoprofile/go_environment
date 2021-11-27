@@ -5,8 +5,8 @@ Environment variable
 go env
 ```
 ### Attention to the variables:
-GOPATH="/Users/joaocarvalho/go"
-GOROOT="/usr/local/go"
+* GOPATH="/Users/joaocarvalho/go"
+* GOROOT="/usr/local/go"
 
 Create project package
 ```
