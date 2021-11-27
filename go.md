@@ -19,21 +19,34 @@ go env
   go mod tidy
 ```
 
-go mod vendor // Show structure vendor in project
+### Show structure vendor in project
+```bash
+  go mod vendor
+```
 
-go mod init github.com/joaokvalho/namepackage // Create a module, project go
+### Create a module, project go
+```bash
+  go mod init github.com/joaokvalho/namepackage
+```
 
-go get -u github.com/lib/pq // Installation of external libs
+### Installation of external libs
+```bash
+  go get -u github.com/lib/pq
+```
 
-go build file.go // Build the build and compile the application
+### Build the build and compile the application
+```bash
+  go build file.go
+```
 
-go run file.go // Run and compile the application
+### Run and compile the application
+```bash
+  go run file.go
+```
 
 GOOS=windows // Operating System Variables Arrow
 Example:
 GOOS=windows go build main.go // Compile the application for windows
-
-
 
 
 
