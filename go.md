@@ -5,7 +5,7 @@
 go env
 ```
 #### Attention to the variables:
-* GOPATH="/Users/joaocarvalho/go" (Workspace, location of my projects)
+* GOPATH="/Users/joaocarvalho/go" (Main GO Folder, with bin and pkg)
 * GOROOT="/usr/local/go" (Golang installation location)
 
 ### Create project package
