@@ -1,15 +1,15 @@
 # go_environment
 
-Environment variable
+### Environment variable
 ```bash 
 go env
 ```
-### Attention to the variables:
+#### Attention to the variables:
 * GOPATH="/Users/joaocarvalho/go"
 * GOROOT="/usr/local/go"
 
-Create project package
-```
+### Create project package
+```bash
   go mod init github.com/joaokvalho/namepackage
 ```
 
