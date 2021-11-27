@@ -1,5 +1,10 @@
 # go_environment
 
+Environment variable
+```bash 
+go env
+```
+
 Create project package
 ```
   go mod init github.com/joaokvalho/namepackage
